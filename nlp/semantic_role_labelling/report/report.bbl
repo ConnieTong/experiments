@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{ARTICLE:2}
+D.~Gildea and D.~Jurafsky, ``Automatic labeling of semantic roles,'' {\em
+  Association for Computational Linguistics}, 2002.
+
+\bibitem{ARTICLE:1}
+J.~Zhou and W.~Xu, ``End-to-end learning of semantic role labeling using
+  recurrent neural networks,'' {\em Association for Computational Linguistics},
+  2015.
+
+\bibitem{ARTICLE:3}
+D.~Marcheggiani, A.~Frolov, and I.~Titov, ``A simple and accurate
+  syntax-agnostic neural model for dependency-based semantic role labeling,''
+  {\em Association for Computational Linguistics}, 2017.
+
+\bibitem{ARTICLE:4}
+L.~He, K.~Lee, M.~Lewis, and L.~Zettlemoyer, ``Deep semantic role labeling:
+  What works and what’s next,'' 2018.
+
+\bibitem{a7}
+J.~D. Lafferty, A.~McCallum, and F.~C.~N. Pereira, ``Conditional random fields:
+  Probabilistic models for segmenting and labeling sequence data,'' in {\em
+  Proceedings of the Eighteenth International Conference on Machine Learning},
+  ICML '01, (San Francisco, CA, USA), pp.~282--289, Morgan Kaufmann Publishers
+  Inc., 2001.
+
+\bibitem{a9}
+Z.~Wang, T.~Jiang, B.~Chang, and Z.~Sui, ``Chinese semantic role labeling with
+  bidirectional recurrent neural networks,'' in {\em Proceedings of the 2015
+  Conference on Empirical Methods in Natural Language Processing},
+  pp.~1626--1631, Association for Computational Linguistics, 2015.
+
+\bibitem{a5}
+J.~Haji\v{c}, M.~Ciaramita, R.~Johansson, D.~Kawahara, M.~A. Mart\'{\i},
+  L.~M\`{a}rquez, A.~Meyers, J.~Nivre, S.~Pad\'{o}, J.~\v{S}t\v{e}p\'{a}nek,
+  P.~Stra\v{n}\'{a}k, M.~Surdeanu, N.~Xue, and Y.~Zhang, ``The conll-2009
+  shared task: Syntactic and semantic dependencies in multiple languages,'' in
+  {\em Proceedings of the Thirteenth Conference on Computational Natural
+  Language Learning: Shared Task}, CoNLL '09, (Stroudsburg, PA, USA),
+  pp.~1--18, Association for Computational Linguistics, 2009.
+
+\bibitem{a6}
+J.~Pennington, R.~Socher, and C.~D. Manning, ``Glove: Global vectors for word
+  representation,'' in {\em Empirical Methods in Natural Language Processing
+  (EMNLP)}, pp.~1532--1543, 2014.
+
+\bibitem{a8}
+L.~Bottou, ``Large-scale machine learning with stochastic gradient descent,''
+  in {\em Proceedings of COMPSTAT'2010} (Y.~Lechevallier and G.~Saporta, eds.),
+  (Heidelberg), pp.~177--186, Physica-Verlag HD, 2010.
+
+\end{thebibliography}
